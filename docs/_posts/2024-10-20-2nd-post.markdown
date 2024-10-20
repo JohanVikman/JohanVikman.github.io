@@ -14,3 +14,5 @@ Nothing seems to be mandatory, but "layout" and "title" seems pretty useful.
 Apparently you can use data files in multiple formats, YAML, JSON, CSV, etc. And then use that data in posts using site.data. \<csv filename here\>.
 
 Hmmm, the posts are sorted from oldest->new.... Hmmm I want  new->oldest.
+
+*update* HA! It's new->oldest over on Github pages! Also updating the _config.yml didn't bite....
