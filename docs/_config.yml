@@ -21,7 +21,7 @@
 title: Johan Vikman Lundström
 email: johancodes@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  I am a passionate software engineer, working with backend solutions in Erlang.
+  Dunno what I'll post here.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  JohanVikman
@@ -32,10 +32,11 @@ plugins:
 
 remote_theme: ngzhio/jekyll-theme-hamilton
 
-## Original:
-## theme: minima
 plugins:
   - jekyll-feed
+
+# hamilton color:
+skin: sunrise
 
 # Exclude from processing.
 # The following items will not be processed, by default.
