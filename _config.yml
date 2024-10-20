@@ -28,7 +28,9 @@ github_username:  JohanVikman
 # Build settings
 theme: minima
 plugins:
-  - jekyll-feed
+  - jekyll-remote-theme
+
+remote-theme: ngzhio/jekyll-theme-hamilton
 
 # Exclude from processing.
 # The following items will not be processed, by default.
