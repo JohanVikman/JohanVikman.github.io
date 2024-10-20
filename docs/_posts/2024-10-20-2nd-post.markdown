@@ -1,0 +1,16 @@
+---
+layout: post
+title: Figuring out Jekyll
+---
+
+Ok so you write everything in .markdown files.
+
+The top of the .markdown file has a header section starting and ending with three dashes; "---".
+
+That section is called "Front matter" and is YAML formatted.
+
+Nothing seems to be mandatory, but "layout" and "title" seems pretty useful.
+
+Apparently you can use data files in multiple formats, YAML, JSON, CSV, etc. And then use that data in posts using site.data. \<csv filename here\>.
+
+Hmmm, the posts are sorted from oldest->new.... Hmmm I want  new->oldest.

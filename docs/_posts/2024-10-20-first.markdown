@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "First!"
+date:   2024-10-20 08:55:49 +0100
+categories: general
+---
+
+I've been thinking about somewhere to put my writing for a while. Let's start here and see what happens.
