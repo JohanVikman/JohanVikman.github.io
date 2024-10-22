@@ -45,5 +45,3 @@ That means that the post's file path decides the category:
 roleplaying/symbaroum/_posts/2024-10-22-good-and-bad.markdown
 ```
 All the directories leading up `_posts` will decide the categories!
-
-
