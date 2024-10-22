@@ -34,6 +34,7 @@ tags: journal technical
 tag: this will all be one tag
 categories: multiple categories
 category:  this will all be one category
+---
 ```
 
 But the really useful Jekyll feature is to create directories and let
